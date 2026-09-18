@@ -1,0 +1,157 @@
+{
+  "edges": [
+    {
+      "id": "E1",
+      "from": "low_soil_organic_carbon",
+      "to": "microbial_diversity",
+      "effect": "decreases",
+      "mechanism": "Low soil organic carbon (SOC) reduces the substrate available for soil microbes, shrinking microbial biomass and functional diversity.",
+      "source": "FAO Soil Organic Carbon report, 2021",
+      "quantified_effect": "Below 0.5% SOC, microbial biomass typically drops 30-50% relative to soils above 1.5% SOC"
+    },
+    {
+      "id": "E2",
+      "from": "microbial_diversity",
+      "to": "pollinator_support",
+      "effect": "increases",
+      "mechanism": "Diverse soil microbial communities improve plant nutrient uptake and flowering vigor, indirectly supporting pollinator forage availability.",
+      "source": "IPBES Global Assessment Summary, 2019",
+      "quantified_effect": "Healthy microbial soils correlate with 10-20% higher flowering density in adjacent forage plants"
+    },
+    {
+      "id": "E3",
+      "from": "legume_intercropping",
+      "to": "soil_organic_carbon",
+      "effect": "increases",
+      "mechanism": "Legumes fix atmospheric nitrogen and add root biomass, raising SOC through increased organic matter turnover.",
+      "source": "FAO Soil Organic Carbon report, 2021",
+      "quantified_effect": "+15-25% SOC over 2-3 years"
+    },
+    {
+      "id": "E4",
+      "from": "low_rainfall",
+      "to": "water_availability",
+      "effect": "decreases",
+      "mechanism": "Low and erratic rainfall directly reduces soil moisture and surface water recharge.",
+      "source": "IPCC AR6 Regional Chapter (South Asia), 2022",
+      "quantified_effect": "Semi-arid regions show 20-40% lower plant-available water in low-rainfall years"
+    },
+    {
+      "id": "E5",
+      "from": "water_availability",
+      "to": "species_survival",
+      "effect": "increases",
+      "mechanism": "Reliable water availability reduces drought stress mortality across trophic levels, from vegetation to fauna dependent on it.",
+      "source": "IUCN Habitat-Species Correlation Papers, 2020",
+      "quantified_effect": "Species richness drops ~25% in habitats with sustained water deficit"
+    },
+    {
+      "id": "E6",
+      "from": "species_survival",
+      "to": "habitat_resilience",
+      "effect": "increases",
+      "mechanism": "Higher species survival maintains functional redundancy in an ecosystem, buffering it against further shocks.",
+      "source": "IPBES Global Assessment Summary, 2019",
+      "quantified_effect": null
+    },
+    {
+      "id": "E7",
+      "from": "monoculture",
+      "to": "land_use_type",
+      "effect": "narrows",
+      "mechanism": "Monoculture cropping simplifies land cover structurally and reduces on-farm plant diversity.",
+      "source": "ESA WorldCover documentation, 2021",
+      "quantified_effect": null
+    },
+    {
+      "id": "E8",
+      "from": "land_use_type",
+      "to": "habitat_fragmentation",
+      "effect": "increases",
+      "mechanism": "Homogeneous, single-crop land use removes hedgerows, field margins, and microhabitats that connect wildlife corridors.",
+      "source": "IPCC Land-Use Change report, 2019",
+      "quantified_effect": "Monoculture landscapes show 2-3x higher fragmentation index vs. mixed cropping"
+    },
+    {
+      "id": "E9",
+      "from": "habitat_fragmentation",
+      "to": "species_richness",
+      "effect": "decreases",
+      "mechanism": "Fragmented habitat isolates populations, reduces gene flow, and shrinks effective foraging/breeding range.",
+      "source": "IUCN Habitat-Species Correlation Papers, 2020",
+      "quantified_effect": "Each 10% increase in fragmentation index associates with ~8% species richness decline"
+    },
+    {
+      "id": "E10",
+      "from": "monoculture",
+      "to": "pest_vulnerability",
+      "effect": "increases",
+      "mechanism": "Genetically uniform crops lack the natural pest-predator buffering that polycultures provide.",
+      "source": "FAO Deforestation & Agriculture report, 2020",
+      "quantified_effect": "Monoculture fields show 2-4x higher pest outbreak frequency"
+    },
+    {
+      "id": "E11",
+      "from": "pest_vulnerability",
+      "to": "biodiversity_decline",
+      "effect": "increases",
+      "mechanism": "Higher pest vulnerability drives increased pesticide use, which harms non-target insects, soil fauna, and pollinators.",
+      "source": "Pollution-Biodiversity Meta-Analysis, FAO 2022",
+      "quantified_effect": "Areas with high pesticide use show 30-45% lower non-target insect abundance"
+    },
+    {
+      "id": "E12",
+      "from": "agroforestry",
+      "to": "habitat_fragmentation",
+      "effect": "decreases",
+      "mechanism": "Tree-crop integration restores structural complexity and corridors between fragmented patches.",
+      "source": "IPBES Global Assessment Summary, 2019",
+      "quantified_effect": "Agroforestry buffers reduce local fragmentation index by 15-30% over 5 years"
+    },
+    {
+      "id": "E13",
+      "from": "agroforestry",
+      "to": "soil_organic_carbon",
+      "effect": "increases",
+      "mechanism": "Tree root systems and leaf litter add deep and surface organic matter beyond what annual crops alone provide.",
+      "source": "IPCC AR6 Regional Chapter, 2022",
+      "quantified_effect": "+10-20% SOC over 3-5 years in semi-arid agroforestry trials"
+    },
+    {
+      "id": "E14",
+      "from": "cover_cropping",
+      "to": "soil_moisture",
+      "effect": "increases",
+      "mechanism": "Cover crop residue reduces evaporation and improves soil structure/infiltration, retaining more moisture.",
+      "source": "FAO Soil Organic Carbon report, 2021",
+      "quantified_effect": "10-15% higher soil moisture retention in cover-cropped plots"
+    },
+    {
+      "id": "E15",
+      "from": "soil_moisture",
+      "to": "microbial_diversity",
+      "effect": "increases",
+      "mechanism": "Moist soils sustain more active and diverse microbial communities than dry, crusted soils.",
+      "source": "FAO Soil Organic Carbon report, 2021",
+      "quantified_effect": null
+    },
+    {
+      "id": "E16",
+      "from": "deforestation",
+      "to": "habitat_fragmentation",
+      "effect": "increases",
+      "mechanism": "Forest clearing directly severs habitat corridors and reduces core habitat area.",
+      "source": "FAO Deforestation report, 2020",
+      "quantified_effect": null
+    },
+    {
+      "id": "E17",
+      "from": "pollution",
+      "to": "species_survival",
+      "effect": "decreases",
+      "mechanism": "Chemical runoff and air/soil pollutants impose direct toxicological stress on flora and fauna.",
+      "source": "Pollution-Biodiversity Meta-Analysis, FAO 2022",
+      "quantified_effect": null
+    }
+  ]
+}

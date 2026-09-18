@@ -1,0 +1,98 @@
+[
+  {
+    "id": "S1",
+    "topic": "soil",
+    "region": null,
+    "year": 2021,
+    "source": "FAO Soil Organic Carbon report, 2021",
+    "text": "Legume-based intercropping and cover cropping increase soil organic carbon by 15-25% over 2-3 years through nitrogen fixation and increased root biomass turnover. This effect is strongest in soils starting below 0.5% SOC."
+  },
+  {
+    "id": "S2",
+    "topic": "soil",
+    "region": "semi-arid",
+    "year": 2021,
+    "source": "FAO Soil Organic Carbon report, 2021",
+    "text": "In semi-arid croplands, soil organic carbon below 0.3% is associated with severely reduced microbial biomass and poor water-holding capacity, compounding drought stress on crops."
+  },
+  {
+    "id": "S3",
+    "topic": "climate",
+    "region": "South Asia",
+    "year": 2022,
+    "source": "IPCC AR6 Regional Chapter (South Asia), 2022",
+    "text": "Semi-arid regions of South Asia are projected to see increased rainfall variability, with low-rainfall years reducing plant-available water by 20-40% relative to historical baselines."
+  },
+  {
+    "id": "S4",
+    "topic": "biodiversity",
+    "region": null,
+    "year": 2019,
+    "source": "IPBES Global Assessment Summary, 2019",
+    "text": "Agricultural intensification and monoculture cropping are among the top drivers of global biodiversity decline, primarily through habitat homogenization and reduced on-farm plant diversity."
+  },
+  {
+    "id": "S5",
+    "topic": "land_use",
+    "region": null,
+    "year": 2021,
+    "source": "ESA WorldCover documentation, 2021",
+    "text": "Land cover classified as single-crop agricultural mosaic shows markedly lower structural heterogeneity than mixed-cropping or agroforestry systems, correlating with lower habitat connectivity indices."
+  },
+  {
+    "id": "S6",
+    "topic": "biodiversity",
+    "region": null,
+    "year": 2020,
+    "source": "IUCN Habitat-Species Correlation Papers, 2020",
+    "text": "Habitat fragmentation index correlates strongly with species richness decline: each 10% increase in fragmentation associates with approximately 8% lower local species richness."
+  },
+  {
+    "id": "S7",
+    "topic": "human_impact",
+    "region": null,
+    "year": 2020,
+    "source": "FAO Deforestation & Agriculture report, 2020",
+    "text": "Monoculture cropping systems show 2-4x higher pest outbreak frequency than diversified systems, driving increased pesticide dependency and downstream non-target species harm."
+  },
+  {
+    "id": "S8",
+    "topic": "human_impact",
+    "region": null,
+    "year": 2022,
+    "source": "Pollution-Biodiversity Meta-Analysis, FAO 2022",
+    "text": "Areas with high pesticide application show 30-45% lower non-target insect abundance, directly impacting pollinator populations and food web stability."
+  },
+  {
+    "id": "S9",
+    "topic": "land_use",
+    "region": "semi-arid",
+    "year": 2022,
+    "source": "IPCC AR6 Regional Chapter, 2022",
+    "text": "Agroforestry interventions in semi-arid agroforestry trials produced 10-20% increases in soil organic carbon over 3-5 years, alongside measurable reductions in local habitat fragmentation."
+  },
+  {
+    "id": "S10",
+    "topic": "soil",
+    "region": null,
+    "year": 2021,
+    "source": "FAO Soil Organic Carbon report, 2021",
+    "text": "Cover crop residue reduces soil evaporation and improves infiltration, increasing soil moisture retention by 10-15% relative to bare or single-crop fields."
+  },
+  {
+    "id": "S11",
+    "topic": "biodiversity",
+    "region": null,
+    "year": 2019,
+    "source": "IPBES Global Assessment Summary, 2019",
+    "text": "Ecosystems with higher species survival rates maintain greater functional redundancy, which buffers them against further environmental shocks such as drought or pest outbreaks."
+  },
+  {
+    "id": "S12",
+    "topic": "climate",
+    "region": null,
+    "year": 2019,
+    "source": "IPCC Land-Use Change report, 2019",
+    "text": "Land-use change toward homogeneous cropping is a leading contributor to habitat fragmentation globally, with monoculture landscapes showing 2-3x higher fragmentation indices than mixed-use landscapes."
+  }
+]
